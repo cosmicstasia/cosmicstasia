@@ -46,4 +46,3 @@
 
 ---
 
-> “Keep exploring. Keep building. Stay cosmic.” ✨
