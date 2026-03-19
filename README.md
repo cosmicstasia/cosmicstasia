@@ -15,7 +15,6 @@
 - 🐧 linux enthusiast (nix, arch, and everything in between)
 - 🤖 robotics / science olympiad alum
 - 🏳️‍⚧️ trans, loud about it
-- 🌺 based in kailua-kona, hi
 
 ---
 
