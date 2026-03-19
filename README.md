@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=high+school+student;software+engineer;linux+enthusiast;chaos+organizer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=UTK+student;software+engineer;linux+enthusiast;chaos+organizer)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🌈 currently
 
-- 🎓 senior in high school (ap gov survivor)
+- 🎓 student at UTK
 - 💻 software engineer 
 - 🐧 linux enthusiast (nix, arch, and everything in between)
 - 🤖 robotics / science olympiad alum
