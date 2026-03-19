@@ -1,48 +1,43 @@
-# Hi there, I'm cosmicstasia (she/her)! 👋
+# hey, i'm anastasia (she/her) 👋
 
-🌌 **R&D Lead @ BrookMimir LLC**  
-🚀 Passionate about building, breaking, and reinventing tech
-
----
-
-### 👨‍💻 About Me
-
-
-- 🛠️ **Tech Stack:** Python, C++, Linux, DevOps
-- 🎮 **Interests:** Video games, books, open source, and all things Linux
-- 🧠 **Always Learning:** Exploring new technologies and pushing creative boundaries
-
+high school student & software engineer. i build things, break things, and 
+organize chaos.
 
 ---
 
-### 📈 GitHub Stats
+### currently
 
-![cosmicstasia's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmicstasia&show_icons=true&theme=tokyonight&count_private=true)
-
----
-
-### 🏆 GitHub Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cosmicstasia&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+- 🎓 senior in high school (ap gov survivor)
+- 💻 software engineer 
+- 🐧 linux enthusiast (nix, arch, and everything in between)
+- 🤖 robotics/science olympiad alum
+- 🏳️‍⚧️ trans, loud about it
 
 ---
 
-### 📚 Featured Projects
+### tech i actually use
 
-<!-- Add links to your favorite or most notable projects here!
-- [Project Name](project-link) - short description
-- [Another Project](another-link) - short description
--->
-
----
-
-### 🌍 Connect with Me
-
-<!-- Add your social or professional links here!
-[LinkedIn](#)
-[Website](#)
-[Twitter/X](#)
--->
+- **languages:** python, c++, rust (learning), javascript
+- **systems:** nixos, arch, macos (begrudgingly)
+- **interests:** devops, automation, low-level systems, ml (cautiously)
 
 ---
 
+### notable projects
+
+- **[NixLinux](https://github.com/cosmicstasia/NixLinux)** - my nixos configs & experiments
+- **[MHS-Robot-Tour-2025](https://github.com/cosmicstasia/MHS-Robot-Tour-2025)** - science olympiad robot tour code
+- **[NixFinOS](https://github.com/cosmicstasia/NixFinOS)** - personal finance automation with nix
+- **[dotfiles](https://github.com/cosmicstasia/dotfiles)** - extremely over-engineered setup
+
+---
+
+### stats (because everyone has these)
+
+![stats](https://github-readme-stats.vercel.app/api?username=cosmicstasia&show_icons=true&theme=tokyonight)
+
+---
+
+### find me
+
+- 💬 telegram: [@moneydollar3](https://t.me/moneydollar3)
