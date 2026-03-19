@@ -39,4 +39,4 @@ organize chaos.
 
 ### find me
 
-- 💬 telegram: [@moneydollar3](https://t.me/moneydollar3)
+- 💬 telegram: [@moneydollar3](https://t.me/cosmicstasia)
