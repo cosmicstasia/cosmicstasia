@@ -7,7 +7,7 @@ organize chaos.
 
 ### currently
 
-- 🎓 senior in high school (ap gov survivor)
+- 🎓 senior in high school
 - 💻 software engineer 
 - 🐧 linux enthusiast (nix, arch, and everything in between)
 - 🤖 robotics/science olympiad alum
@@ -17,9 +17,9 @@ organize chaos.
 
 ### tech i actually use
 
-- **languages:** python, c++, rust (learning), javascript
+- **languages:** python, rust (learning), javascript (learning)
 - **systems:** nixos, arch, macos (begrudgingly)
-- **interests:** devops, automation, low-level systems, ml (cautiously)
+- **interests:** devops, automation, big data pipelines, ml (cautiously)
 
 ---
 
@@ -27,7 +27,6 @@ organize chaos.
 
 - **[NixLinux](https://github.com/cosmicstasia/NixLinux)** - my nixos configs & experiments
 - **[MHS-Robot-Tour-2025](https://github.com/cosmicstasia/MHS-Robot-Tour-2025)** - science olympiad robot tour code
-- **[NixFinOS](https://github.com/cosmicstasia/NixFinOS)** - personal finance automation with nix
 - **[dotfiles](https://github.com/cosmicstasia/dotfiles)** - extremely over-engineered setup
 
 ---
